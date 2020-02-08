@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 031ff90725c976321fe0b24eee859116d9709068
 class Artist
   attr_accessor :name
 

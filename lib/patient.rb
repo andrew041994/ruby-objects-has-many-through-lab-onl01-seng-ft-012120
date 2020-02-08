@@ -10,6 +10,7 @@ attr_accessor :name
       @@all
     end
 
+<<<<<<< HEAD
     def new_appointment(doctor, date)
       new_appointment = Appointment.new(date, self, doctor)
     end
@@ -26,4 +27,6 @@ attr_accessor :name
           appointment.doctor
         end
       end
+=======
+>>>>>>> 031ff90725c976321fe0b24eee859116d9709068
 end
